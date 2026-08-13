@@ -122,6 +122,14 @@ Customer_Email_Analytics/
 
 └── sql/
 
+#### Dashboard Preview
+## Email AI Analytics - 10000 Emails
+(Email_AI_Analytics_Dashboard_1.png)
+(Email_AI_Analytics_Dashboard_2.png)
+
+## AI Email Analysis - 10 Email Validation
+(AI_Email_Analysis_Dashboard.png)
+
 ## Key Outcome
 
 The project demonstrates an end-to-end analytics workflow, from raw
